@@ -3,7 +3,7 @@
 				display: inline;
 				font-size: 25px;
 				padding: 1%;
-				font-family: 'Montserrat', sans-serif;
+				font-family: 'Lobster', sans-serif;
 			}
 			.header{
 				position: fixed;
@@ -14,16 +14,17 @@
 				right: 0px;
     			box-shadow: 10px 3px 5px #888888;
     			opacity: .7;
+    			height: 5%;
 			}
 		
-			.open{
+			#open{
 				font-size: 50px;
-				color: #FF3322;
+				color: #00cce1;;
 				text-align: center;
 				height: 15em;
-				line-height: 15em;
 				width: 100%;
-				font-family: 'Montserrat', sans-serif;
+				font-family: 'Lobster', sans-serif;
+				margin-top: 3%;
 
 			}
 
@@ -31,12 +32,12 @@
 
 			#about{
 				width: 100%;
-				height: 400px;
+				height: 800px;
 				background: #00cce1;
 				border: 5px solid #00cce1;
 				text-align: center;
-				font-family: 'Montserrat', sans-serif;
-				line-height: 150px;
+				font-family: 'Lobster', sans-serif;
+				line-height: 250px;
 
 
 			}
@@ -46,19 +47,19 @@
 				background: #00cce1;
 				border: 5px solid #00cce1;
 				text-align: center;
-				font-family: 'Montserrat', sans-serif;
+				font-family: 'Lobster', sans-serif;
 
 
 
 			}
 			#contact{
 				width: 100%;
-				height: 400px;
+				height: 800px;
 				background: #ecf0f1;
 				border: 5px solid #ecf0f1;
 				text-align: center;
-				font-family: 'Montserrat', sans-serif;
-				line-height: 400px;
+				font-family: 'Lobster', sans-serif;
+				line-height: 150px;
 
 
 			}

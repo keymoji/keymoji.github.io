@@ -941,11 +941,11 @@ img {
 }
 .img-rounded {
   border-radius: 6px;
-  height: 30%;
-  width: 10%;
   padding: 15px;
   border-radius: 20%;
 }
+.img-rounded:hover{opacity: .5;}
+
 .img-thumbnail {
   display: inline-block;
   width: 100% \9;
